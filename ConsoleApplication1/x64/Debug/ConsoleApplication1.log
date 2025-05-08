@@ -1,1 +1,12 @@
-﻿  ConsoleApplication1.vcxproj -> C:\Users\Akshat Sinha\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+﻿  main.c
+C:\Users\Akshat Sinha\source\repos\ConsoleApplication1\ConsoleApplication1\main.c(85,41): warning C4244: 'function': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\Akshat Sinha\source\repos\ConsoleApplication1\ConsoleApplication1\main.c(226,9): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Akshat Sinha\source\repos\ConsoleApplication1\ConsoleApplication1\main.c(334,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Akshat Sinha\source\repos\ConsoleApplication1\ConsoleApplication1\main.c(342,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Akshat Sinha\source\repos\ConsoleApplication1\ConsoleApplication1\main.c(368,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Akshat Sinha\source\repos\ConsoleApplication1\ConsoleApplication1\main.c(420,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Akshat Sinha\source\repos\ConsoleApplication1\ConsoleApplication1\main.c(436,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Akshat Sinha\source\repos\ConsoleApplication1\ConsoleApplication1\main.c(445,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  minecraft.c
+  world.c
+  Generating Code...
